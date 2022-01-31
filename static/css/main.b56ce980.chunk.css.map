@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss","webpack://src/Components/Tabs/Tabs.scss"],"names":[],"mappings":"AACA,KACE,YAAa,CCFf,MACE,YAAa,CAEb,YACE,WAAY","file":"main.b56ce980.chunk.css","sourcesContent":["// Put styles here\n.App {\n  padding: 50px;\n}\n",".list {\n  display: flex;\n\n  &__item {\n    margin: 10px;\n  }\n}\n"]}
